@@ -252,6 +252,8 @@ Partial Class frmClienteActualizar
         Me.Controls.Add(Me.lblCedula)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.btnActulizar)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "frmClienteActualizar"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Actualizar Cliente"

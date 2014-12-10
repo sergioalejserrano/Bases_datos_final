@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <startup>
+
+    </startup>
+  <connectionStrings>
+    <add name="OracleConnectionString" connectionString="Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST=192.168.6.30)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME= XE)));User ID= TALLER ;Password= 12345 ;" />
+    <add name="UITaller.My.MySettings.OracleConnection" connectionString="Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST=192.168.6.30)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME= XE)));User ID= TALLER ;Password= 12345 ;"
+         
+      providerName="System.Data.OracleClient" />
+    <add name="UITaller.My.MySettings.ConnectionString" connectionString="Data Source=(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST=192.168.6.30)(PORT = 1521)))(CONNECT_DATA =(SERVICE_NAME= XE)));User ID= TALLER ;Password= 12345 ;"
+      providerName="System.Data.OracleClient" />
+  </connectionStrings>
+ </configuration>

@@ -160,14 +160,14 @@ Partial Class frmNuevoUsuario
         Me.txtNombre.Location = New System.Drawing.Point(197, 35)
         Me.txtNombre.Name = "txtNombre"
         Me.txtNombre.Size = New System.Drawing.Size(214, 20)
-        Me.txtNombre.TabIndex = 37
+        Me.txtNombre.TabIndex = 1
         '
         'txtApellido
         '
         Me.txtApellido.Location = New System.Drawing.Point(197, 75)
         Me.txtApellido.Name = "txtApellido"
         Me.txtApellido.Size = New System.Drawing.Size(214, 20)
-        Me.txtApellido.TabIndex = 38
+        Me.txtApellido.TabIndex = 2
         '
         'cmbEstado
         '

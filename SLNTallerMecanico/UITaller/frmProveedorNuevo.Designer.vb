@@ -280,7 +280,10 @@ Partial Class frmProveedorNuevo
         Me.Controls.Add(Me.txtNombre)
         Me.Controls.Add(Me.lblNombre)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "frmProveedorNuevo"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Nuevo Proveedor"
         Me.ResumeLayout(False)
         Me.PerformLayout()

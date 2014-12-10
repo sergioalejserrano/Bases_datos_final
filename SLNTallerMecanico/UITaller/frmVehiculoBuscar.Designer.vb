@@ -131,6 +131,7 @@ Partial Class frmVehiculoBuscar
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(552, 343)
         Me.Controls.Add(Me.btnSeleccionar)
         Me.Controls.Add(Me.txtClienteResultado)
@@ -139,7 +140,10 @@ Partial Class frmVehiculoBuscar
         Me.Controls.Add(Me.lblVin)
         Me.Controls.Add(Me.GroupBox1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "frmVehiculoBuscar"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Buscar Vehiculo"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()

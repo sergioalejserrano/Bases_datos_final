@@ -307,7 +307,10 @@ Partial Class frmHojadeParteNuevo
         Me.Controls.Add(Me.lblNumHojaResultado)
         Me.Controls.Add(Me.GroupBox1)
         Me.Cursor = System.Windows.Forms.Cursors.Default
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "frmHojadeParteNuevo"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Nueva Hoja de Parte"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()

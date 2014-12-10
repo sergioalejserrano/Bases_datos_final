@@ -210,7 +210,10 @@ Partial Class frmFactura
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.txtNumero)
         Me.Controls.Add(Me.Label1)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "frmFactura"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Factura"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

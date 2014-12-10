@@ -312,7 +312,10 @@ Partial Class frmVehiculoNuevo
         Me.Controls.Add(Me.txtModelo)
         Me.Controls.Add(Me.lblModelo)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "frmVehiculoNuevo"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Nuevo Vehiculo"
         Me.ResumeLayout(False)
         Me.PerformLayout()
