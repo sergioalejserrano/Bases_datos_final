@@ -269,3 +269,7 @@ C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_B
 C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\SLNTallerMecanico\UITaller\obj\Debug\UITaller.exe
 C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\SLNTallerMecanico\UITaller\obj\Debug\UITaller.xml
 C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\SLNTallerMecanico\UITaller\obj\Debug\UITaller.pdb
+C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\Bases_datos_final\SLNTallerMecanico\UITaller\bin\Debug\UITaller.exe.config
+C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\Bases_datos_final\SLNTallerMecanico\UITaller\obj\Debug\UITaller.exe
+C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\Bases_datos_final\SLNTallerMecanico\UITaller\obj\Debug\UITaller.xml
+C:\Users\Sergio\Dropbox\UIA\Bases de Datos 2\Proyecto\Proyecto_Bases2\Proyecto_BD2_Final\Bases_datos_final\SLNTallerMecanico\UITaller\obj\Debug\UITaller.pdb
